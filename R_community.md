@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R Community
-permalink: /R_Community.md/
+permalink: /R_Community/
 ---
 
 ## My Data Science Projects
