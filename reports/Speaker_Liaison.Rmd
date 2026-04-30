@@ -1,0 +1,62 @@
+---
+title: Speaker Liaison, Ushers and Accessibility
+author: Conference Organization 
+date: 14th March 2026
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Role: Speaker Liaison
+
+**Profile:** Ideally suited for early-career professionals or students. It requires a low initial technical skill set but offers a high-speed learning curve in project management and professional communication.
+
+### Key Responsibilities
+
+* **The Conduit:** Acting as the primary point of contact between the conference committee and the speakers.
+* **Proactive Outreach:** Introducing yourself early via email to build rapport.
+* **Logistics & Technical Audit:** * Collecting "Day-of" contact details (mobile numbers, hotel info).
+* Confirming Audio-Visual (AV) requirements (e.g., HDMI vs. USB-C adapters, slide aspect ratios).
+
+
+* **Risk Mitigation:** Regular "check-ins" act as a soft confirmation, significantly reducing the risk of "no-shows."
+* **Accessibility Support:** Serving as a dedicated resource for attendees with mobility or participation needs, ensuring the conference is inclusive.
+
+### Benefits to the Volunteer
+
+* **High-Level Networking:** Direct, one-on-one interaction with industry leaders and peers.
+* **Soft Skill Development:** Rapidly improves professional correspondence and crisis management skills.
+
+---
+
+## 2. Conference Ushering & Room Dynamics
+
+The "Usher" is not just a seat-finder; they are the **architects of the room's energy.**
+
+### The "Front-Loading" Strategy
+
+* **Energy & Morale:** Seating friendly, engaged faces in the front rows provides immediate positive feedback to the speaker.
+* **Visual Optics:** An empty front row suggests a lack of interest, regardless of how many people are sitting in the back.
+* **Photography & Legacy:** * **The "Critical Mass" Rule:** If the front three rows are full, a skilled photographer can make a room of 50 people look like a room of 500.
+* **Avoiding Detrimental Imagery:** Photos of a speaker standing before a sea of empty chairs are damaging to the conference brand and the speaker’s morale.
+
+
+
+---
+
+## 3. Accessibility & Presentation Standards
+
+You made an excellent point regarding slide design that is often overlooked by amateurs.
+
+* **The High-Contrast Trap:** While "Black Text on White" is the default for many, it is often **sub-optimal.**
+* **Accessibility:** Pure white backgrounds can be "blinding" in dark auditoriums and are difficult for attendees with dyslexia or light sensitivity (visual stress).
+* **Photography:** White backgrounds often "blow out" in photographs, making the text unreadable and the speaker appear silhouetted.
+* **Recommendation:** Use off-white or dark-themed backgrounds with high-contrast (but not vibrating) text to ensure readability for both the human eye and the camera lens.
+
+---
