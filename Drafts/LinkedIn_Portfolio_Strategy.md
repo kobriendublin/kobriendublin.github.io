@@ -1,7 +1,3 @@
-This technical report outlines the strategic transition of the **R User Community** from a centralized LinkedIn architecture to a **Distributed Portfolio Model**. The primary objective is to optimize **Feed Tenure** and **Dwell Time** to enhance corporate outreach, recruitment, and community engagement.
-
----
-
 ## Technical Report: LinkedIn Ecosystem Optimization Strategy
 
 **To:** R User Community Stakeholders / YR Foundation Board  

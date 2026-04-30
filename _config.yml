@@ -4,3 +4,9 @@ description: Data science and R programming blog.
 baseurl: "" 
 url: "https://kobriendublin.github.io"
 theme: minima
+
+# Define your navigation menu here
+header_pages:
+  - about.md
+  - portfolio.md
+  - R_Community.md
