@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-## My Data Science Projects
+## Some stuff about me
 This section covers R programming and data analysis...
